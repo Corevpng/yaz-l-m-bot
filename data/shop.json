@@ -1,0 +1,22 @@
+[
+    {
+      "name": "Laptop",
+      "price": 500
+    },
+    {
+      "name": "Telefon",
+      "price": 300
+    },
+    {
+      "name": "Kulaklık",
+      "price": 100
+    },
+    {
+      "name": "Klavye",
+      "price": 50
+    },
+    {
+      "name": "Fare",
+      "price": 30
+    }
+  ]
